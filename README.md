@@ -1,7 +1,9 @@
 # coming-soon_page
 This is a simple countdown page that displays a countdown timer to a specified date and time. This page can be used for various purposes such as counting down to a special event, product launch, or any other important deadline.
 
-![](https://github.com/VicktorMS/coming-soon_page/Coming_Soon.gif)
+![](https://github.com/VicktorMS/coming-soon_page/blob/master/Coming_Soon.gif)
+
+Try out: https://vicktorms.github.io/coming-soon_page/
 
 ## Features
 Customizable countdown timer to any date and time.
